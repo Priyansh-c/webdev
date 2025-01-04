@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Travel Adventures</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: lightblue;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            background-color: gray;
+            text-align: center;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: lightgray;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to Travel Agency by Priyansh</h1>
+</header>
+
+<nav>
+    <a href="#destinations">Destinations</a>
+    <a href="#activities">Activities</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="destinations">
+    <h2>Top Destinations</h2>
+    <h3>Lucknow, India</h3>
+    <p>Visit the city of lucknow (i visit this place because of my gf lowkey a mid place ).</p>
+    <h3>bangalore, India</h3>
+    <p>Explore the traffic and dont speak hindi.</p>
+</section>
+
+<section id="activities">
+    <h2>Popular Activities</h2>
+    <ul>
+        <li>Chilling with your gf</li>
+        <li>Sitting in trafic</li>
+        <li>Party scenes</li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: blabla@gmail.com</p>
+    <p>Phone: 6362....</p>
+</section>
+
+<footer>
+    <p>&copy; 2025 Travel Adventures</p>
+</footer>
+
+</body>
+</html>
